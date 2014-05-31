@@ -1,0 +1,14 @@
+{
+  "name": "PiquiBackEnd",
+  "version": "0.0.0",
+  "description": "Piqui BackEnd Server",
+  "dependencies":{
+	"express":"3.x"
+  },
+  "engine":{
+	"node":"0.10.26",
+	"npm":"1.3.x"
+  },
+  "author": "Tony Chun",
+  "license": "BSD-2-Clause"
+}
